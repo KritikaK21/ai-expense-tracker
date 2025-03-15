@@ -1,0 +1,16 @@
+# Firebase secret keys
+serviceAccountKey.json
+firebase-config.json
+
+# AI/ML trained models
+expense_vectorizer.pkl
+expense_categorizer_model.pkl
+
+# CSV or sensitive datasets
+expenses.csv
+
+# Python cache
+__pycache__/
+
+# VS Code settings (optional)
+.vscode/
